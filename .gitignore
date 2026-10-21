@@ -59,3 +59,7 @@ app.*.map.json
 *.zip
 *.h5
 *.keras
+
+*.zip
+*.h5
+*.keras
